@@ -1,0 +1,3 @@
+# This directory stores cached weather data files (.pkl files)
+# These files are large (87-88 MB each) and are excluded from git
+# They will be automatically downloaded/regenerated when needed by the application
