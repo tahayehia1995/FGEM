@@ -136,8 +136,6 @@ pure_eval==0.2.3
 pycodestyle==2.13.0
 pycparser==2.22
 Pygments==2.18.0
-pyobjc-core==10.3.2
-pyobjc-framework-Cocoa==10.3.2
 pyogrio==0.10.0
 pyparsing==3.2.0
 pyproj==3.7.0
