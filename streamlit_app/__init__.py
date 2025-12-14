@@ -1,0 +1,2 @@
+"""FGEM Streamlit Application Package."""
+
